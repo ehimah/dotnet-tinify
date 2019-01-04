@@ -2,7 +2,7 @@
   "profiles": {
     "dotnet-tinify": {
       "commandName": "Project",
-      "commandLineArgs": "--help"
+      "commandLineArgs": "C:\\minified C:\\minified -a b89fnf0hSxWn9xkXhZRtQ2VpQpjPW4ZL > logs.txt"
     }
   }
 }
